@@ -2,12 +2,12 @@
 
 
 #html, #css, #js, #python, #php, #mysql, #canva, #figma, #sql{
-    background-color: #393E46;
+    /* background-color: #393E46; */
     transition: transform 0.2s ease;
     box-shadow: 0 4px 6px 0 rgba(22, 22, 26, 0.18);
       
 }
 #html:hover, #css:hover, #js:hover, #python:hover, #php:hover, #mysql:hover, #canva:hover, #figma:hover, #sql:hover{
     transform: scale(1.03);
-    background-color: #222831;
+    /* background-color: #222831; */
 }
