@@ -1,0 +1,35 @@
+[
+	{
+		"image" : "/images/html.png"
+	},
+	{
+		"image" : "/images/css.png"
+	},
+	{
+		"image" : "/images/js.png" 
+	},
+	{
+		"image" : "/images/python.png"
+	},
+	{
+		"image" : "/images/php.png"
+	},
+	{
+		"image" : "/images/mysql.png"
+	},
+	{
+		"image" : "/images/figma.png"
+	},
+	{
+		"image" : "/images/sql.png"
+	},
+	{
+		"image" : "/images/git.png"
+	},
+	{
+		"image" : "/images/github.svg"
+	},
+	{
+		"image" : "/images/django.png"
+	}
+]
